@@ -2,3 +2,7 @@
 *.pdf
 *.dat
 *.txt
+*.zip
+*.rar
+_*
+Data-mining-master/
